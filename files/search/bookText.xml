@@ -1,0 +1,643 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="10"><page Index="1"><![CDATA[PROJECT PROPOSAL BRIEFING NOTE
+                         PREPARED FOR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Integrated Platform
+
+
+
+
+         for the Simulation of
+
+
+
+
+         Offshore Aquaculture Structures
+      +61 3 6226 2429                                              ali.tolooiyan@utas.edu.au
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                             ali.tolooiyan@utas.edu.au
+                                                    +61 3 6226 2429
+                                                             1]]></page><page Index="2"><![CDATA[PROJECT
+
+
+                                                          SUMMARY
+
+
+
+
+                                                          For every offshore aquaculture project, the complex
+                                                          loading  conditions,  nonlinear  material  behaviour,
+                                                          and  extensive  multi-physical  interfaces  between
+                                                          the  sea  flow,  seabed  soil,  waves,  and  structural
+                                                          components  such  as  pens,  anchors  and  mooring
+                                                          system, necessitates the need to analyse and select
+                                                          the best combination of the structural components,
+                                                          through either traditional full-scale trial testing or
+                                                          numerical  analysis.  Since  full-scale  trial  testing  is
+                                                          usually  associated  with  unreasonable  cost,  time,
+                                                          and risk, numerical simulation is preferred to full-
+                                                          scale trial testing.
+
+                                                          Although several commercial numerical simulation
+                                                          packages  have  been  developed,  there  remains  a
+                                                          serious lack of integrated multi-physical numerical
+                                                          modelling  packages  for  the  comprehensive
+                                                          simulation  of  offshore  aquaculture  structures.
+                                                          Currently,  all  existing  packages  fail  in  the
+                                                          simultaneous simulation of the three essential multi-
+                                                          physical  interfaces  (fluid-soil,  fluid-structure,  and
+                                                          soil-structure). This means several packages should
+                                                          be  used  concurrently  to  achieve  the  simulation
+                                                          objectives.  This  concurrent  application  requires
+                                                          the  results  from  one  package  to  be  exported  to
+                                                          another package, back-and-forth and iteratively to
+                                                          take the neglected interfaces into account. Such a
+                                                          complex sequential pattern makes the analysis less
+                                                          precise,  more  expensive,  more  time-consuming,
+                                                          less realistic, or even impossible.
+
+
+                                                          Aimed  to  avoid  this  expensive,  unreliable  and
+                                                          time-consuming pattern, the integrated simulation
+                                                          platform offered in this project combines existing
+                                                          modelling methods, tools, knowledge and expertise
+                                                          in one single platform which can be used directly by
+                                                          the relevant aquaculture industry for the simulation
+                                                          and analysis of offshore aquaculture and modular
+                                                          multi-use  platform  systems,  and  lead  to  the
+                                                          selection of the most suitable design, structural set-
+                                                          up, installation method, and construction material.
+
+
+
+
+
+                                                             2]]></page><page Index="3"><![CDATA[WHAT IS LACKING ?
+
+
+
+
+
+          In recent times, the growing demand for high-quality protein sources, coupled with technological
+          advancements has facilitated a range of developments in offshore sea-cage aquaculture. From
+          a structural engineering point of view, many of these advances have led to durable and cost-
+          effective materials for the construction of fish pens, reliable anchoring and mooring systems,
+          cost-effective and practical pen designs, and various computer systems for the monitoring of
+          structural components. However, as field conditions such as wave height and energy, water
+          depth  and  geotechnical  properties  of  the  seabed  affect  the  performance  of  every  offshore
+          aquaculture system, the engineering design of the system is completely dependent on field
+          conditions. This means there is no such thing as the best pen design, most suitable construction
+          material,  or  most  cost-effective  and  reliable  anchoring  and  mooring  system,  as  a  generic
+          engineering solution to all the challenges associated with field conditions.
+
+
+          In fact, for every offshore aquaculture project, subject to the field conditions, one needs to
+          analyse, validate, verify and ultimately choose the best combination of the structural components
+          for this particular project through either traditional full-scale trial testing or novel numerical
+          analysis. Since full-scale trial testing is usually associated with unreasonable cost, time, and risk,
+          numerical simulation is preferred to full-scale trial testing. However, no commercial numerical
+          analysis  package  has  yet  been  developed  for  the  comprehensive  simulation  of  offshore
+          aquaculture structures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                             3]]></page><page Index="4"><![CDATA[WHAT THIS PROJECT OFFERS
+
+
+
+
+
+
+
+
+         The  proposed  research  project  does  not  aim  to  develop  a  new  analysis  software  package
+         which may impose extra time and cost to the industry by reinventing the wheel. Instead, the
+         integrated simulation platform offered in this project combines existing modelling methods,
+         tools,  knowledge  and  expertise  in  one  single  package,  both  iteratively  and  in  parallel.  This
+         comprehensive modelling platform facilitates the realistic simulation of individual structural
+         components of an offshore aquaculture system, as well as their interactions and interfaces,
+         while taking into account the effects of field conditions in both low- and high-energy areas. By
+         using this platform, local and international industry stakeholders can explore and analyse a
+         range of what-if scenarios and answer essential project-based questions (please see below).
+
+
+         Through  the  realistic  simulation  of  potential  scenarios,  stakeholders  can  choose  the  most
+         suitable design, installation method, and construction material, which leads to gain in efficiency,
+         reliability and safety of a commercial-ready design for offshore aquaculture pens as well as
+         other structures such as floating breakwaters and modular multi-use platform systems, and
+         their interaction with the existing or future pens, in both low or high-energy environments.
+
+
+                                                                   -  How  does  the  sea  hydrodynamics  affect
+                                                                   the integrity of the structure?
+
+
+                                                                   -  Considering  the  characterisation  of  the
+                                                                   seabed,  what  are  the  most  cost-effective
+                                                                   and  reliable  anchoring  and  mooring
+                                                                   systems?
+
+
+                                                                   -  What  are  the  required  collapse  loads  in
+                                                                   different  field  conditions,  should  the  pen
+                                                                   construction material change?
+
+
+                                                                   - Considering the energy intensity, what is
+                                                                   the most reliable and optimum cage design?
+
+
+                                                                   -  Between  the  strengthening  of  the  cage/
+                                                                   mooring systems, and lessening the wave
+                                                                   energy through the construction of a floating
+                                                                   breakwater,  what  is  the  most  economical
+                                                                   solution for farming in high-energy areas?
+
+
+
+
+
+
+
+
+                                                             4]]></page><page Index="5"><![CDATA[NUMERICAL MODELLING
+
+
+
+
+
+
+
+
+                MULTI-PHYSICS
+                                          State-of-the-art  numerical  modelling  is  one  of  the  two  engines
+                                          behind  this  project.  Driven  by  this  particular  engine,  advanced
+                      SIMULATION
+                                          numerical methods are employed when each method requires
+
+                                          unique numerical time-stepping, algorithms, meshing techniques,
+                                          procedures to investigate the behaviour of the considered system.
+
+
+                                          Some of the Numerical Methods in this Platform:
+
+
+
+                                          I.      Finite Element Method (FEM):
+                                          II.     Computational Fluid Dynamics (CFD):
+                                          III.    Coupled Eulerian-Lagrangian (CEL):
+
+                                          IV.     Smoothed-Particle Hydrodynamics (SPH):
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Physical Elements                                         Multi-Physical Interfaces
+
+          A.   Flow                                                 a.   Fluid-Soil Interaction
+          B.   Geotechnical                                         b.   Fluid-Structure Interaction eotechnical
+          C.   Wave                                                 c.    Soil-Structure Interaction
+          D.   Structural Components
+
+
+
+
+
+
+
+
+
+                                                             5]]></page><page Index="6"><![CDATA[UNIVERSITIES
+
+
+
+         INVOLVED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Several research-active universities will be involved in the project, including:
+
+         •  University of Tasmania (UTAS) - Australia
+
+         •  The University of Western Australia (UWA) - Australia
+
+         •  Griffith University - Australia
+
+         •  Universidad Austral de Chile (UACh) - Chile
+
+
+
+                                                             6]]></page><page Index="7"><![CDATA[PHYSICAL MODELLING
+
+
+
+
+
+
+
+
+                                                                                                                  UTAS AMC Model Test Basin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                  UWA  Centrifuge Facility
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          State-of-the-art  physical  modelling  is  the  second  driving  force  behind  this  project.  Not  all
+          questions  regarding  the  design  and  optimisation  of  offshore  structures  can  be  answered
+          through numerical modelling. This is when the importance of realistic physical modelling kicks
+          in. Physical modelling is essential for the calibration of numerical model inputs as well as the
+          validation and verification of the results determined from the numerical simulation.
+
+
+          The UTAS AMC model test basin is equipped with specialised instrumentation including a wave-
+          maker, a wind generator and a state-of-the-art quality digital video motion capture system,
+          to facilitate the physical study of the behaviour of downscaled structural components under
+          realistic field loading conditions.
+
+
+          The geotechnical centrifuge facility at UWA is necessary for understanding the behaviour of the
+          anchors as well as the geotechnical behaviour of the seabed. The other advantage of centrifuge
+          modelling in this project is time-scaling whereby some geotechnical reactions that take decades
+          to produce in the field can be scaled down to and investigated in several days.
+
+
+
+                                                             7]]></page><page Index="8"><![CDATA[VALIDATION AND VERIFICATION (V&V)
+
+
+
+
+
+         The  V&V  methodology  implemented  in  this  platform  is  offered  to  make  numerical  model
+         predictions  with  high  confidence.  Through  comparing  the  numerical  results  versus  those
+         captured from either physical testing or provided by industry partners, V&V allows for a reduction
+         in the cost, time, and risk associated with future full-scale testing or final construction.
+
+
+
+
+
+         DESIGN AND OPTIMISATION (D&O)
+
+
+
+
+
+         The numerical modelling, physical modelling and V&V features designed and integrated into
+         this platform work both collaboratively and iteratively, to offer the optimum and reliable design.
+         This process plays an important role to avoid any unnecessary costs or time-related delay to the
+         traditionally used trial and error methods.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                             8]]></page><page Index="9"><![CDATA[Academic Personnel
+
+
+
+
+
+
+                                       Dr Ali Tolooiyan                            UTAS
+
+
+
+                                 Dr Gholamreza Kefayati                            UTAS
+
+
+
+                                     Prof Andrew Chan                              UTAS
+
+
+                                   Dr Nagi Abdussamie                              UTAS
+
+
+                                 Prof Christophe Gaudin                            UWA
+
+
+
+                                  Dr Hassan Karampour                         Griffith Uni.
+
+
+
+                                    Dr Gonzalo Tampier                            UACh
+
+
+
+
+                                   Dr Cristian Cifuentes                          UACh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                             9]]></page><page Index="10"><![CDATA[Prepared by
+
+
+
+
+                                                      Dr Ali Tolooiyan
+
+
+                            School of Engineering, University of Tasmania, Hobart, Australia
+
+
+
+                                                          Feb. 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 +61 3 6226 2429                                              ali.tolooiyan@utas.edu.au
+
+
+
+
+
+
+
+
+                                                             10]]></page></pages></Search>
